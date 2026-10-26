@@ -1,0 +1,1 @@
+{"version":3,"file":"accountRoleResponse.d.ts","sourceRoot":"","sources":["../../../src/generated/types/accountRoleResponse.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,KAAK,EAAE,uBAAuB,EAAE,MAAM,2BAA2B,CAAC;AAEzE,MAAM,WAAW,mBAAmB;IAClC,IAAI,EAAE,uBAAuB,CAAC;IAC9B,uBAAuB,EAAE,OAAO,CAAC;IACjC,yBAAyB,EAAE,OAAO,CAAC;CACpC"}
